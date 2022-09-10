@@ -1,0 +1,1 @@
+# omstu-mag-algo
